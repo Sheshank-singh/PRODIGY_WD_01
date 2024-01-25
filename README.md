@@ -1,8 +1,8 @@
 # PRODIGY_WD_01
 
-<h1>Sheshank Flute Company Landing Page</h1>
+<big><big>Sheshank Flute Company Landing Page</big></big>
 
-🎶 <h3>Welcome to the Sheshank Flute Company landing page!</h13> 🎶
+🎶 <h3>Welcome to the Sheshank Flute Company landing page!</h3> 🎶
 
 This project is part of the Prodigy Internship, serving as the first task for interns. It showcases a beautifully crafted and responsive landing page for the Sheshank Flute Company, dedicated to presenting a diverse range of professional Indian Bamboo Flutes - The Enchanting Bansuri.
 
